@@ -2,7 +2,7 @@
 
 > Minicurso Angular ministrado para alunos de Sistemas de Informação do IFES Colatina em 30 de setembro de 2022.
 
-Os conhecimentos foram passados por meio da prática, onde cada aluno pôde implementar o projeto em suas máquinas junto comigo.
+Os conhecimentos foram passados por meio da prática, onde cada aluno pôde implementar o projeto em sua máquina junto comigo.
 
 A IDE utilizada foi o [StackBlitz ⚡️](https://stackblitz.com)
 
