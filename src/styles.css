@@ -1,0 +1,13 @@
+@import url('https://code.cdn.mozilla.net/fonts/fira.css');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+body {
+  font-family: Roboto;
+  margin: 0px;
+  background-image: url('https://esales.com.br/wp-content/uploads/2021/11/frete-correios.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}

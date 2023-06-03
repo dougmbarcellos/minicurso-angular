@@ -1,0 +1,23 @@
+<ol class="hide-numbers" reversed>
+  <li *ngFor="let step of steps">
+    <mat-card style="margin-top: 15px;">
+      <mat-card-header>
+        <div mat-card-avatar>
+          <img style="height: 50px; width: 50px;" src="{{ step.urlIcon }}" />
+        </div>
+        <mat-card-title
+          ><span [style.color]="step.delivered ? '#20a151' : 'none'">{{
+            step.description
+          }}</span></mat-card-title
+        >
+        <mat-card-subtitle>{{ step.address }}</mat-card-subtitle>
+      </mat-card-header>
+
+      <mat-card-content>
+        <p>
+          {{ step.date | date: 'dd/MM/yyy hh:mm:ss' }}
+        </p>
+      </mat-card-content>
+    </mat-card>
+  </li>
+</ol>

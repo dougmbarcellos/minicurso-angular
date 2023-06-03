@@ -1,0 +1,24 @@
+<form>
+  <!-- <textarea
+    #objectArea
+    placeholder="Digite o código de rastreamento"
+  ></textarea> -->
+
+  <mat-form-field appearance="fill" style="width: 100%;">
+    <mat-label>Código de Rastreamento</mat-label>
+    <input #objectArea matInput placeholder="Digite o código de rastreamento" />
+    <mat-hint align="start">Ex.: QM687737359BR</mat-hint>
+  </mat-form-field>
+</form>
+
+<button
+  color="primary"
+  mat-raised-button
+  appearance="fill"
+  (click)="track(objectArea.value)"
+  style="width: 100%; margin-top: 20px;"
+>
+  Rastrear
+</button>
+
+<br />
