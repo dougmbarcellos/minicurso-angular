@@ -15,4 +15,8 @@ A IDE utilizada foi o [StackBlitz ⚡️](https://stackblitz.com)
 - Requisições com HttpClient 🔌
 - Angular Material ✨
 
+### Visualização
+
+![](https://github.com/dougmbarcellos/minicurso-angular/blob/main/example/mini%20curso%20angular.gif)
+
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-sfmy1n)
