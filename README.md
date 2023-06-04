@@ -14,7 +14,7 @@ A IDE utilizada foi o [StackBlitz ⚡️](https://stackblitz.com)
 - Estrutura de condição e repetição com `*ngIf` e `*ngFor` 💫
   - Também explicado o motivo de usarmos o `*` e exemplo sem o uso do mesmo.
 - Requisições com `HttpClient` 🌐
-- Componentes Angular Material ✨
+- Componentes e estilização com Angular Material ✨
 
 ### Visualização
 
