@@ -10,7 +10,7 @@ A IDE utilizada foi o StackBlitz ⚡
 
 - Organização de diretórios 📁
 - Criação de componentes, services e interfaces 🧩
-- Tranferência de dados entre componentes através de `@Input` e `@Output` 💥
+- Comunicação entre componentes através de `@Input` e `@Output` 💥
 - Estrutura de condição e repetição com `*ngIf` e `*ngFor` 💫
   - Também explicado o motivo de usarmos o `*` e exemplo sem o uso do mesmo.
 - Requisições com `HttpClient` 🌐
