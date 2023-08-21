@@ -4,7 +4,7 @@
 
 Os conhecimentos foram passados por meio da prática , onde cada aluno pôde implementar o projeto em sua máquina junto comigo 👨‍💻
 
-A IDE utilizada foi o [StackBlitz ⚡️](https://stackblitz.com)
+A IDE utilizada foi o StackBlitz ⚡
 
 ### Assuntos abordados
 
